@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @LEIBLUE8586
-- 👀 I’m interested in python and game devolopment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me... i have no idea, just contact me by searching my name in twitter i guess
+Hello, Im Nofal the famous youtuber👋
+I dream to be a Programmer/Computer Science guy 😎
+I hope u are ok with me, Love ya all dawgs 💙
 
 <!---
 LEIBLUE8586/LEIBLUE8586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
